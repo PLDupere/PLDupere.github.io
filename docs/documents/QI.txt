@@ -1,0 +1,18 @@
+
+Un peu de sport cérébral.
+Il parait qu'il faut au moins un QI de 120 pour résoudre ce problème.
+Fais travailler ta matière grise et trouve la clé du mystère!
+
+Bon amusement.
+
+Si:
+2 + 3 = 10    
+7 + 2 = 63
+6 + 5 = 66
+8 + 4 = 96
+Nous aurons donc :
+9 + 7 = ????
+
+== x+y=z ==> x*y+x^2=z
+
+REP:  144
