@@ -1,9 +1,0 @@
-Étape 1. Configurer un référentiel GitHub
-
-Étape 2. Poussez votre code sur le référentiel
-Poussez le code entier sur le référentiel. 
-Assurez-vous d’avoir le fichier index.html dans le répertoire racine ou dans un dossier nommé docs.
-
-Étape 3. Activer les pages GitHub
-Dirigez-vous vers l’ onglet Paramètres.
-Choisissez le dossier respectif (/docs) où votre code est présent.
