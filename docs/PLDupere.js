@@ -100,7 +100,7 @@ $(document).ready(function() {
         "Principal responsable pour administrer les défaillances et appliquer les mesures correctives en automation et instrumentation", 
         "Gestion du personnel et du matériel en fonction des priorités opérationnelles  ", 
         "Administration des protocoles de communication et de réseautique industrielle", 
-        "Programmation d’automate, de robot industriel et d’interface opérateur", 
+        "Programmation d’automate, de variateur de vitesse et d’interface opérateur", 
         "Acquisition, gestion, analyse de données et Internet of Things", 
         "Faire les analyses de défaillance et s’assure des mesures correctives", 
         "Modification d’équipement et mise à jour de plan électrique", 
