@@ -14,7 +14,7 @@ $(document).ready(function() {
         $("#Text3").text("");
         $("#Text4").text("");
         $("#Text5").text("");
-        $("#Text1").text("On me décrit comme une personne qui a une approche calme et considérée dans la vie, qui évalue les situations de manière équilibrée et qui considère les autres avant de prendre des décisions.");
+        $("#Text1").text("On me décrit comme une personne qui a une approche calme et réfléchit, qui évalue les situations de manière équilibrée et qui considère les autres avant de prendre des décisions.");
         $("#Text2").text("J'ai acquis une solide formation technique ainsi qu'une expérience significative en matière de programmation de systèmes de contrôle et de régulation des procédés industriels.");
         $("#Text3").text("Au cours de mes expériences professionnelles précédentes, j'ai eu l'opportunité de mettre en œuvre mes compétences en matière d'instrumentation, de contrôle des procédés et d'automatisation, ainsi que mon expertise en électronique. J'ai également développé des compétences en matière de résolution de problèmes complexes.");
         $("#Text4").text("Je suis passionné par l'électronique, l'informatique  et les sciences. Je suis toujours à la recherche de nouveaux défis qui me permettent de développer mes compétences et connaissances dans ces domaines techniques. ");
@@ -347,7 +347,7 @@ $(document).ready(function() {
         $("#Ligne2").css("display", "none");
         $("#Ligne3").css("display", "none");
         $("#Ligne4").css("display", "none");
-        $("#Image").attr("src", "/img/Personnal/Pic2.PNG");
+        $("#Image").attr("src", "/img/Personnal/Pic1.PNG");
         $("#Text1").text("");
         $("#Text2").text("");
         $("#Text3").text("");
