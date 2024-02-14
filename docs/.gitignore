@@ -1,0 +1,58 @@
+# Ignore JavaScript et css
+#*.js
+#*.css
+
+# Ignore bibliothèque
+*.min
+*.map
+
+# Ignore image
+#*.png
+#*.jpg
+#*.jpeg
+
+# Fichiers générés automatiquement
+bin/
+obj/
+
+# Fichiers de configuration spécifiques à Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+
+# Fichiers temporaires
+*.tmp
+
+# Fichiers de sauvegarde
+*.bak
+
+# Fichiers de compilation
+*.dll
+*.exe
+*.pdb
+*.cache
+*.class
+
+# Ignore les fichiers de configuration système et cachés
+.DS_Store
+Thumbs.db
+
+# Ignore les fichiers de build et les dossiers générés
+/build/
+/bin/
+/node_modules/
+/.venv/
+/.idea/
+
+# Ignore les fichiers de sauvegarde
+*~
+*.swp
+*.swo
+
+# Ignore les fichiers de log
+*.log
+
+# Ignore les fichiers d'environnement
+.env
