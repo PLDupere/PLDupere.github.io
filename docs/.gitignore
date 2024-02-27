@@ -1,15 +1,8 @@
-# Ignore JavaScript et css
-#*.js
-#*.css
 
 # Ignore bibliothèque
 *.min
 *.map
 
-# Ignore image
-#*.png
-#*.jpg
-#*.jpeg
 
 # Fichiers générés automatiquement
 bin/
